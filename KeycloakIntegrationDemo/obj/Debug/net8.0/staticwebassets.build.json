@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "an1enRPAotp3pjSf7bnBEmZKV0kMLEqRedoF4nGzRuo=",
+  "Source": "KeycloakIntegrationDemo",
+  "BasePath": "_content/KeycloakIntegrationDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

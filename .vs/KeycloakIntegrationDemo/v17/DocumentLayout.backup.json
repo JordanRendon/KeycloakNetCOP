@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|c:\\users\\lenovo\\desktop\\cop exselcior\\keycloakpoc\\keycloakintegrationdemo\\keycloakintegrationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|solutionrelative:keycloakintegrationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|c:\\users\\lenovo\\desktop\\cop exselcior\\keycloakpoc\\keycloakintegrationdemo\\keycloakintegrationdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|solutionrelative:keycloakintegrationdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|c:\\users\\lenovo\\desktop\\cop exselcior\\keycloakpoc\\keycloakintegrationdemo\\keycloakintegrationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40D2893A-586B-4A67-911A-8531F31B66FD}|KeycloakIntegrationDemo\\KeycloakIntegrationDemo.csproj|solutionrelative:keycloakintegrationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "KeycloakIntegrationDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\appsettings.json",
+              "RelativeToolTip": "KeycloakIntegrationDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T18:15:26.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "KeycloakIntegrationDemo\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "KeycloakIntegrationDemo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:10:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "KeycloakIntegrationDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\COP Exselcior\\KeycloakPOC\\KeycloakIntegrationDemo\\KeycloakIntegrationDemo\\Program.cs",
+              "RelativeToolTip": "KeycloakIntegrationDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:09:39.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
