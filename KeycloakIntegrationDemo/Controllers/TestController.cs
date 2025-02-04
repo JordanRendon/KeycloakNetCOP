@@ -24,4 +24,13 @@ public class TestController : ControllerBase
     {
         return Ok(new { message = "Este endpoint es accesible solo para users." });
     }
+
+    [HttpGet("debug-claims")]
+    [Authorize]
+    public IActionResult DebugClaims()
+    {
+        var claims = User.Claims.Select(c => new { c.Type, c.Value }).ToList();
+        return Ok(claims);
+    }
+
 }

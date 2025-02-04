@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "TestController",
+    "Method": "DebugClaims",
+    "RelativePath": "api/test/debug-claims",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestController",
     "Method": "PrivateEndpoint",
     "RelativePath": "api/test/private",
     "HttpMethod": "GET",

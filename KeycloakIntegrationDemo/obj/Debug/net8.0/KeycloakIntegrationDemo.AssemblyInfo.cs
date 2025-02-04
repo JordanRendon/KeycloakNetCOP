@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeycloakIntegrationDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd494bf63f7055ad03d2453149172e14d7f258d")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeycloakIntegrationDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeycloakIntegrationDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
